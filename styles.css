@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #eee;
+}
+.container {
+    height: 60vh;
+    text-align: center;
+}
+.title {
+    text-decoration: underline;
+    padding-bottom: 15px;
+}
+.submit-btn {
+    display: block;
+    margin: 15px auto;
+    cursor: pointer;
+}
